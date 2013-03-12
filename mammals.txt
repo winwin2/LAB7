@@ -1,0 +1,37 @@
+Albatross
+Bald eagle
+Bird of Paradise
+Blue jay
+Canary
+Cardinal
+Cockatoo
+Condor
+Crane
+Dove
+Duck
+Eagle
+Emu
+Falcon
+Flamingo
+Goose
+Guineafowl
+Halcyon
+Hawk
+Heron
+Hummingbird
+Kingfisher
+Lory
+Macaw
+Nightingale
+Nutcracker
+Ostrich
+Owl
+Parrot
+Pelican
+Penguin
+Pheasant
+Pigeon
+Puffin
+Quail
+Stork
+Swan
