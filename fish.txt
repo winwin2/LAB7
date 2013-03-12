@@ -1,0 +1,24 @@
+Abalone
+Albacore tuna
+Anchovy
+Anglerfish
+Asiatic greater freshwater clam
+Barracuda
+Bass
+Blowfish
+Carp
+Catfish
+Cod
+Crayfish
+Crow
+Haddock
+Halibut
+Hermit crab
+Herring
+Lionfish
+Orca
+Piranha
+Rainbow trout
+Salmon
+Seahorse
+Shark
